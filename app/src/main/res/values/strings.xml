@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_andela">AndelaActivity</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+</resources>
