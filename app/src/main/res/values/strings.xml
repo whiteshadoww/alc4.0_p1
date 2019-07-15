@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Profile</string>
+    <string name="app_name">Andela</string>
     <string name="title_activity_profile">ProfileActivity</string>
     <string name="title_activity_andela">AndelaActivity</string>
     <string name="about_alc">About ALC</string>
